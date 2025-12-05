@@ -39,4 +39,3 @@ Run single file
 ```bash
 npx tsc example.ts
 ```
-
